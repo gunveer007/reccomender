@@ -4,4 +4,5 @@ Werkzeug
 gunicorn
 nltk
 wordcloud
-plotly
+pandas
+
